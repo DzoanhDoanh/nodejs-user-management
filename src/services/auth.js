@@ -1,4 +1,3 @@
-import { where } from 'sequelize';
 import bcrypt from 'bcryptjs';
 import db from '../models';
 import jwt from 'jsonwebtoken';
